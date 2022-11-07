@@ -1,6 +1,0 @@
-total_Num = int(input())
-num = input()
-num = num.split()
-count_Num = input()
-result = num.count(count_Num)
-print(result)
