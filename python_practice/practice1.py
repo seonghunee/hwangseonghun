@@ -1,0 +1,6 @@
+a = int(input())
+b = input()
+b = b.split()
+c = input()
+v = b.count(c)
+print(v)
